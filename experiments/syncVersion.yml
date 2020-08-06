@@ -1,0 +1,6 @@
+# This file was edited by Cloudbees Feature Flags
+type: experiment
+flag: syncVersion
+availableValues:
+  - '0.9266031199426839'
+value: '0.9266031199426839'

@@ -1,0 +1,6 @@
+type: target-group
+name: B
+operator: or
+conditions:
+  - operator: is-true
+    property: B
