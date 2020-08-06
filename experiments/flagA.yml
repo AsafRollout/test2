@@ -1,9 +1,0 @@
-# This file was edited by Cloudbees Feature Flags
-type: experiment
-flag: flagA
-conditions:
-  - dependency:
-      flag: dependantFlag
-      value: 'true'
-    value: true
-value: false
